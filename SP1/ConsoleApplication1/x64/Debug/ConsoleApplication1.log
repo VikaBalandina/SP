@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\vikab\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(26,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\vikab\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\vikab\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
